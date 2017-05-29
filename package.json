@@ -1,0 +1,11 @@
+{
+  "name": "short-url",
+  "version": "1.0.0",
+  "description": "App for shortening URLs in Slack",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
