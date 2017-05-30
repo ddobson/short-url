@@ -11,12 +11,9 @@ module.exports = {
         "sourceType": "module"
     },
     "rules": {
+        "no-console": 0,
         "prefer-const": 2,
         "prefer-arrow-callback": 1,
-        "indent": [
-            "error",
-            2
-        ],
         "linebreak-style": [
             "error",
             "unix"
